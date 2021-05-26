@@ -1771,9 +1771,10 @@ input, select, textarea {
 		}
 
 		.image.featured {
-			display: block;
-			width: 100%;
+			/* display: block; */
+			width: 30%;
 			margin: 0 0 2em 0;
+			border-radius: 50rem;
 		}
 
 		.image.left {
